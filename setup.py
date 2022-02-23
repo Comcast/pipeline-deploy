@@ -58,7 +58,6 @@ setup(
     classifiers=[
         'Intended Audience :: Developers',
         'Intended Audience :: System Administrators',
-        'Intended Audience :: DevOps',
         'Programming Language :: Python :: 3.7',
         'License :: OSI Approved :: Apache Software License',
     ],
