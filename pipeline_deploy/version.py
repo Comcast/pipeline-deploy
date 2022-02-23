@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 """
 
-version = '0.3.4.dev0'  # pylint: disable=invalid-name # noqa
+version = '0.3.5'  # pylint: disable=invalid-name # noqa
 
 
 def print_version_callback(ctx, _, value):
