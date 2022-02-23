@@ -1,0 +1,16 @@
+[paths]
+source =
+    ../pipeline_deploy
+    */site-packages/pipeline_deploy
+
+[run]
+branch = true
+parallel = true
+omit = .tox/**
+source =
+    pipeline_deploy
+    .
+
+[report]
+show_missing = true
+precision = 2

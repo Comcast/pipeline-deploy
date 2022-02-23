@@ -1,0 +1,13 @@
+strictness: high
+test-warnings: True
+doc-warnings: false
+
+ignore-paths:
+  - build
+  - tests
+
+max-line-length: 100
+
+mccabe:
+  disable:
+    - MC0001
